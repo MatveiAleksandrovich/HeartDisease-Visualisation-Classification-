@@ -12,3 +12,4 @@ Technologies:
 * Encoding Data
 * Classification Models
 * Cross Validation
+* Data Visualisations
